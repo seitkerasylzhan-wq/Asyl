@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Gulim",
+        "score": 702,
+        "distance": 756,
+        "coins": 12
+    },
+    {
+        "name": "a",
+        "score": 523,
+        "distance": 443,
+        "coins": 8
+    }
+]
